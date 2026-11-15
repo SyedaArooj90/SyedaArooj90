@@ -29,11 +29,11 @@ A sanitized penetration test report.
 
 ## Skills
 
-**Security:** Burp Suite, OWASP ZAP, Nmap, SQLMap, Nikto, Gobuster, Wireshark, Kali Linux
-**Full-stack development:** React, Node.js, Express, MongoDB, REST APIs, JWT authentication
-**Cloud and DevOps:** Microsoft Azure, Docker, Git and GitHub
-**Languages:** Python, C++, JavaScript, HTML, CSS
-**Other tools:** Postman, VirtualBox, Canva (basic design work)
+- **Security:** Burp Suite, OWASP ZAP, Nmap, SQLMap, Nikto, Gobuster, Wireshark, Kali Linux
+- **Full-stack development:** React, Node.js, Express, MongoDB, REST APIs, JWT authentication
+- **Cloud and DevOps:** Microsoft Azure, Docker, Git and GitHub
+- **Languages:** Python, C++, JavaScript, HTML, CSS
+- **Other tools:** Postman, VirtualBox, Canva (basic design work)
 
 ## Experience
 
